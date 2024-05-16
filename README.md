@@ -3,18 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Simple Website</title>
-
-
-<style>
-	body
-	{
-		background-image:url("images.jpeg");
-		background-repeat: no-repeat;
-		background-size: cover;
-	}
-</style>
 </head>
-<body>
+<body background="download.jpg">
 	<br />
 	<h3 align="center">
 		<font face="Lato" size="7">LOGO</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,4 +43,3 @@
 
 </body>
 </html>
-	
