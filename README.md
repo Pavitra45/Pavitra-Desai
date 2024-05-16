@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Simple Website</title>
 
-</head>
+
 <style>
 	body
 	{
@@ -13,6 +13,7 @@
 		background-size: cover;
 	}
 </style>
+</head>
 <body>
 	<br />
 	<h3 align="center">
